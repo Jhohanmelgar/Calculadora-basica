@@ -16,7 +16,7 @@ Proyecto de práctica en JavaScript que incluye una calculadora básica con suma
 
 [Página oficial de GitHub](https://github.com/Jhohanmelgar/Calculadora-basica)
 
-![Ejemplo de calculadora](https://via.placeholder.com/300x150.png?text=Calculadora+B%C3%A1sica)
+![Ejemplo de calculadora](https://es.vecteezy.com/arte-vectorial/17414755-calculadora-utiles-escolares-kawaii)
 
 ```html
 <!-- Ejemplo de estructura HTML básica para la calculadora -->
